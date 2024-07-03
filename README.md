@@ -45,7 +45,7 @@ Automate your Microsoft Rewards points collection with ease. This extension allo
 2. **Set Preferences:**
 
    - **Delay**: Enter the delay time in seconds between each search.  (Recommended : Keep the delay more than a minute.)
-   - **Number of Searches**: Enter the total number of searches you want to perform.   (Recommended : Keep the Searches according to your Level as in Microsoft REWARDS.)
+   - **Number of Searches**: Enter the total number of searches you want to perform.   (Recommended : Keep the Searches according to your Level as in Microsoft REWARDS. Also Keep it little more than required. e.g. for 30 keep it as 40 ;))
 
 3. **Start Searches:**
 
