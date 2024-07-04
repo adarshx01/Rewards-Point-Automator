@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Automate Microsoft Rewards",
-    "version": "0.1a",
+    "version": "0.1",
     "description": "Automatically performs random searches on Bing to generate Microsoft Rewards Points.",
     "permissions": [
       "tabs",
